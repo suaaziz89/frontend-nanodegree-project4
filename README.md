@@ -19,3 +19,7 @@ Resources Used:
 4. CSS Minifier at http://cssminifier.com/
 5. JS Minifier at http://jscompress.com/
 
+Instructions to run the application
+1. To run the application, start by navigating to github link
+2. The Index.html files point to production files however, source code is also provided. Production files are noted with a "-min" extension.
+3. Double click index.html to run the application
